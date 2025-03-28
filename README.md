@@ -1,7 +1,6 @@
-# 🧠 Reinforcement Learning Agents – CS 188 Project
+# 🧠 Reinforcement Learning Agents
 
-This repository contains reinforcement learning agents implemented in Python to solve dynamic environments such as **Gridworld** and **Pacman**, as part of UC Berkeley’s CS 188: Introduction to Artificial Intelligence course.
-
+This repository contains reinforcement learning agents implemented in Python to solve dynamic environments such as **Gridworld** and **Pacman**.
 ## 📌 Features
 
 - ✅ **Value Iteration Agent** for solving known MDPs using dynamic programming  
