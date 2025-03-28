@@ -1,11 +1,11 @@
-# Reinforcement Learning Agents – CS 188 Project
+# 🧠 Reinforcement Learning Agents – CS 188 Project
 
-This project implements several reinforcement learning agents to solve dynamic environments such as Gridworld and Pacman. The algorithms include **Value Iteration**, **Q-Learning**, and **Approximate Q-Learning**. This project is based on UC Berkeley’s CS 188 framework.
+This repository contains reinforcement learning agents implemented in Python to solve dynamic environments such as **Gridworld** and **Pacman**, as part of UC Berkeley’s CS 188: Introduction to Artificial Intelligence course.
 
 ## 📌 Features
-- Solves Markov Decision Processes (MDPs) using Value Iteration  
-- Implements Q-learning with exploration strategies  
-- Scales to high-dimensional states using linear feature-based approximation  
-- Includes testing and visualization in **Pacman** and **Gridworld**
 
-## 📂 Project Structure
+- ✅ **Value Iteration Agent** for solving known MDPs using dynamic programming  
+- ✅ **Q-Learning Agent** for model-free learning through environment interaction  
+- ✅ **Approximate Q-Learning Agent** with function approximation for scalability  
+- 🎮 Supports **Pacman** and **Gridworld** environments  
+- 🧪 Includes testing scripts via `autograder.py` for quick evaluation
